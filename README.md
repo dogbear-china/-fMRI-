@@ -30,6 +30,6 @@
 
 ## 项目结果
 
-![AD vs CN 占空比对比](results/figures/AD_vs_CN_duty_cycle.png)
+![AD vs CN 占空比对比]([results/figures/AD_vs_CN_duty_cycle.png](https://github.com/dogbear-china/-fMRI-/blob/main/AD_CN_Aligned_Differences_BarChart.png))
 
 
