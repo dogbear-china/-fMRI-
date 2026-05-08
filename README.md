@@ -28,4 +28,8 @@
 
 ---
 
+## 项目结果
+
+![AD vs CN 占空比对比](results/figures/AD_vs_CN_duty_cycle.png)
+
 
