@@ -31,6 +31,6 @@
 ## 项目结果
 
 ![AD vs CN 占空比对比](https://github.com/dogbear-china/-fMRI-/blob/main/AD_CN_Aligned_Differences_BarChart.png)
-!(https://github.com/dogbear-china/-fMRI-/blob/main/DEC_Aligned_Hypergraphs_90Grid.png)
+![状态链接矩阵](https://github.com/dogbear-china/-fMRI-/blob/main/DEC_Aligned_Hypergraphs_90Grid.png)
 
 
